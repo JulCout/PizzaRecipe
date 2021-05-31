@@ -8,4 +8,8 @@ Un ver d'eau
 Better to cum in the sink than sink in the cum
 balz sweat
 Vive marc dupre dans la ville de quebaaac
+<<<<<<< HEAD
+Vive marc dupre en coree du nord
+=======
 fuck off
+>>>>>>> main
